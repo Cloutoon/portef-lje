@@ -1,0 +1,13 @@
+.text-box {
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+}
+
+#hvasomhelst{
+    max-width: 50rem;
+    font-size: 2rem;
+    margin: 0;
+}
+ 
+ 
