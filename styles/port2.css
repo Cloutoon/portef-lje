@@ -1,0 +1,75 @@
+body {
+    font-family: 'Prompt', sans-serif;
+    background-color: #1b1b1b;
+    color: #ffffff;
+}
+
+#logo {
+    text-align: center;
+    padding: 1rem;
+    border-bottom: 2px solid;
+}
+
+#skills h2 {
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+
+.links {
+    background-image: url("/img/ooogway2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link-h1 {
+    font-size: 4rem;
+    border-bottom: 2px solid;
+    transition: all 0.2s;
+}
+
+/* Animasjon på lenkene */
+.link-h1>a {
+    transition: all 0.5s;
+}
+
+.link-h1>a:hover {
+    font-size: 4.5rem;
+}
+
+/* edgardo sin kode */
+.link1 {
+    font-size: 4rem;
+    border-bottom: 2px solid;
+    transition: all 0.2s;
+}
+
+.link1:hover {
+    font-size: 5rem;
+
+}
+
+.link2 {
+    font-size: 4rem;
+    border-bottom: 2px solid;
+    transition: all 0.2s;
+}
+
+.link2:hover {
+    font-size: 5rem;
+
+}
+
+/* ferdig */
+
+.link-h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* About me */

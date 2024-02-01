@@ -1,0 +1,17 @@
+.text-box {
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+}
+
+#hvasomhelst{
+    max-width: 50rem;
+    font-size: 2rem;
+    margin: 0;
+}
+ 
+.selvpotet {
+    width: 20rem;
+    border: 2px solid #fff;
+    border-radius: 8px;
+}
