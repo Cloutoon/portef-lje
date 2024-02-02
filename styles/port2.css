@@ -10,6 +10,15 @@ body {
     border-bottom: 2px solid;
 }
 
+#logo-image {
+    transition: all .25s;
+}
+
+#logo-image:hover {
+    width: 350px;
+    height: auto;
+}
+
 #skills h2 {
     border-bottom: 2px solid;
     padding-bottom: 5px;
@@ -36,30 +45,6 @@ body {
     font-size: 4.5rem;
 }
 
-/* edgardo sin kode */
-.link1 {
-    font-size: 4rem;
-    border-bottom: 2px solid;
-    transition: all 0.2s;
-}
-
-.link1:hover {
-    font-size: 5rem;
-
-}
-
-.link2 {
-    font-size: 4rem;
-    border-bottom: 2px solid;
-    transition: all 0.2s;
-}
-
-.link2:hover {
-    font-size: 5rem;
-
-}
-
-/* ferdig */
 
 .link-h1 a {
     text-decoration: none;

@@ -2,16 +2,21 @@
     display: flex;
     justify-content: space-around;
     gap: 8px;
+    
 }
 
-#hvasomhelst{
+#hvasomhelst, #previous-work-text{
     max-width: 50rem;
     font-size: 2rem;
     margin: 0;
 }
  
+#previous-work-text {
+    font-size: 2rem !important;
+}
 .selvpotet {
     width: 20rem;
     border: 2px solid #fff;
     border-radius: 8px;
 }
+

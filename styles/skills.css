@@ -10,4 +10,10 @@
     margin: 0;
 }
  
+ .textcontainer{
+    display: flex; flex-direction: column;
+    gap: 2rem;
+    margin: 3rem;
+ }
+
  
